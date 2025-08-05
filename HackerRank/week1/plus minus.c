@@ -1,20 +1,20 @@
 #include <stdio.h>
 
 void plusMinus(int arr[], int n) {
-    int pos = 0, neg = 0, zero = 0;
+    int positive = 0, negative = 0, neutral = 0;
 
     for (int i = 0; i < n; i++) {
         if (arr[i] > 0)
-            pos++;
+            positive++;
         else if (arr[i] < 0)
-            neg++;
+            negative++;
         else
-            zero++;
+            neutral++;
     }
 
-    printf("%.6f\n", (float)pos / n);
-    printf("%.6f\n", (float)neg / n);
-    printf("%.6f\n", (float)zero / n);
+    printf("%.6f\n", (float)positive / n);
+    printf("%.6f\n", (float)negative / n);
+    printf("%.6f\n", (float)neutral / n);
 }
 
 int main() {
