@@ -8,4 +8,4 @@
 
 ![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/d0af1c5d7d7b4f6a199b6e7ea3791ca7b11301d2/c%20programming/sololearn%20intro%20to%20c.png)
 
-![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/18b6900122b5d9c1ab0dc0bf5994fde3430db46e/c%20programming/sololearn%20intermediate%20to%20c.jpg)
+![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/57b6b7f5320cd6e08b494bc715348dadb5adef38/c%20programming/sololearn%20intermediate%20to%20c.png)
