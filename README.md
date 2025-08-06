@@ -7,3 +7,5 @@
 ![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/fb788a05a06c448b16e4c9cdacef9128bc04074b/linux/linux%20commands%20day3.jpg)
 
 ![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/fa6bba355f2f86145a0451c679387ba4583007aa/c%20programming/sololearn%20intro%20to%20c.jpg)
+
+![image alt](https://github.com/Balaji0803/5010321_BALAJI_A.M/blob/18b6900122b5d9c1ab0dc0bf5994fde3430db46e/c%20programming/sololearn%20intermediate%20to%20c.jpg)
